@@ -5,8 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
-
+How can you run
+### `Open the file in Vs code`
+### `and go to the terminal and type cd city-tabs-app`
+### `Hit enter`
 ### `npm start`
 
 Runs the app in the development mode.\
