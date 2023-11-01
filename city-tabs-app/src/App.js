@@ -111,11 +111,16 @@ function App() {
       <header className="my-4">
 
         <input
+        
+        class="form-control mr-sm-2"
+         aria-label="Search"
           type="text"
           className="form-control"
           placeholder="Search cars by name..."
+          
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
+
         />
       </header>
       <main>
